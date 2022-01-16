@@ -1,0 +1,1867 @@
+Atempting to start server... 
+
+Server up & running!! Listening on port 64240... 
+
+Waiting for 4 players to log in.. 
+
+New client request received : Socket[addr=/127.0.0.1,port=61025,localport=64240]
+Creating a new handler for this client...
+Adding this client to active client list 
+
+New client request received : Socket[addr=/127.0.0.1,port=61026,localport=64240]
+Creating a new handler for this client...
+Adding this client to active client list 
+
+New client request received : Socket[addr=/127.0.0.1,port=61027,localport=64240]
+Creating a new handler for this client...
+Adding this client to active client list 
+
+New client request received : Socket[addr=/127.0.0.1,port=61028,localport=64240]
+Creating a new handler for this client...
+Adding this client to active client list 
+
+All players are here!! We shall start the game! 
+
+Got the username from Client[0] and it's User_0
+Got the username from Client[1] and it's User_1
+Got the username from Client[2] and it's User_2
+Got the username from Client[3] and it's User_3
+
+User_0 --> Scientist
+User_1 --> Operations Expert
+User_2 --> Quarantine Specialist
+User_3 --> Medic
+
+Initializing cities...
+Initializing infected deck...
+Initializing players deck...
+Getting everyone to Atlanta...
+
+RS sucesfully placed in Atlanta
+
+Giving out first cards to players...
+
+User_0 just drawn the Madrid card
+User_0 just drawn the Taipei card
+User_1 just drawn the Kinshasa card
+User_1 just drawn the Ho Chi Minh City card
+User_2 just drawn the Santiago card
+User_2 just drawn the Montreal card
+User_3 just drawn the Bogota card
+User_3 just drawn the Sydney card
+
+Adding 4 Epidemic cards to the player Deck..
+
+Infecting Chennai...
+Adding 3 Black cube(s) to Chennai
+Black cubes left: 21
+Infecting Santiago...
+Adding 3 Yellow cube(s) to Santiago
+Yellow cubes left: 21
+Infecting Bangkok...
+Adding 3 Red cube(s) to Bangkok
+Red cubes left: 21
+Infecting Manila...
+Adding 2 Red cube(s) to Manila
+Red cubes left: 19
+Infecting Miami...
+Adding 2 Yellow cube(s) to Miami
+Yellow cubes left: 19
+Infecting London...
+Adding 2 Blue cube(s) to London
+Blue cubes left: 22
+Infecting Kolkata...
+Adding 1 Black cube(s) to Kolkata
+Black cubes left: 20
+Infecting Sydney...
+Adding 1 Red cube(s) to Sydney
+Red cubes left: 18
+Infecting Riyadh...
+Adding 1 Black cube(s) to Riyadh
+Black cubes left: 19
+
+*** This is round 1.0 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[0, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 0]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[1, 0, 0, 0]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[1, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 0, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 3, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 0, 0]
+Montreal[0, 0, 0, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 0]
+Hong Kong[0, 0, 0, 0]
+Jakarta[0, 0, 0, 0]
+Manila[0, 0, 0, 2]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [19, 19, 22, 18]
+Cards To Draw Left : 44
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 0 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 4 Epidemic cards left out of 4
+
+User_0 is playing now as the Scientist
+
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_0 is thinking of an action to make..
+
+User_0 is driving / getting ferry to Miami from Atlanta
+User_0 is getting a direct flight to Madrid from Miami
+User_0 is driving / getting ferry to London from Madrid
+User_0 treated 1 Blue cube from London
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,0,Miami#DF,0,Madrid#DT,0,London#TD,0,London,Blue
+User_1 : DT,0,Miami#DT,0,Washington#DT,0,Montreal#DT,0,Chicago
+User_2 : DT,0,Chicago#DF,0,Madrid#DT,0,Algiers#DT,0,Paris
+User_3 : DF,0,Madrid#DT,0,London#TD,0,London,Blue#TD,0,London,Blue
+
+User_0 just drawn the San Fransisco card
+User_0 just drawn the Washington card
+
+Infecting Baghdad...
+Adding 1 Black cube(s) to Baghdad
+Black cubes left: 18
+Infecting Milan...
+Adding 1 Blue cube(s) to Milan
+Blue cubes left: 22
+
+*** This is round 2.1 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[1, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 0]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[1, 0, 0, 0]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[1, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 0, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 3, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 1, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 0, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 0]
+Hong Kong[0, 0, 0, 0]
+Jakarta[0, 0, 0, 0]
+Manila[0, 0, 0, 2]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [18, 19, 22, 18]
+Cards To Draw Left : 42
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 0 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 4 Epidemic cards left out of 4
+
+User_1 is playing now as the Operations Expert
+
+User_0 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_1 is thinking of an action to make..
+
+User_1 is getting a direct flight to Kinshasa from Atlanta
+User_1 is driving / getting ferry to Lagos from Kinshasa
+User_1 is driving / getting ferry to Khartoum from Lagos
+User_1 is driving / getting ferry to Lagos from Khartoum
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DF,1,Kinshasa#DT,1,Lagos#DT,1,Sao Paulo#DF,1,Ho Chi Minh City
+User_1 : DF,1,Kinshasa#DT,1,Lagos#DT,1,Khartoum#DT,1,Lagos
+User_2 : DT,1,Chicago#DF,1,Kinshasa#DF,1,Ho Chi Minh City#DT,1,Bangkok
+User_3 : DF,1,Kinshasa#DF,1,Ho Chi Minh City#DT,1,Bangkok#TD,1,Bangkok,Red
+
+User_1 just drawn the London card
+
+SOS --> EPIDEMIC IS DRAWN! <-- SOS
+
+Infecting Montreal due to Epidemic
+Adding 3 Blue cube(s) to Montreal
+Blue cubes left: 19
+
+Infecting Montreal...
+Adding 1 Blue cube(s) to Montreal
+Blue cubes left: 19
+
+SOS --> Outbreak(0) in Montreal <-- SOS
+
+Adding 1 Blue cube(s) to New York
+Blue cubes left: 18
+Cannot infect Washington cause it's under the Quarantine Specialist's protection
+Cannot infect Chicago cause it's under the Quarantine Specialist's protection
+Infecting Santiago...
+Adding 1 Yellow cube(s) to Santiago
+Yellow cubes left: 19
+
+SOS --> Outbreak(1) in Santiago <-- SOS
+
+Adding 1 Yellow cube(s) to Lima
+Yellow cubes left: 18
+
+*** This is round 3.2 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[1, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 0]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[1, 0, 0, 0]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[1, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 3, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 1, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 3, 0]
+New York[0, 0, 1, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 0]
+Hong Kong[0, 0, 0, 0]
+Jakarta[0, 0, 0, 0]
+Manila[0, 0, 0, 2]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [18, 18, 18, 18]
+Cards To Draw Left : 40
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 2 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_2 is playing now as the Quarantine Specialist
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_2 is thinking of an action to make..
+
+User_2 is getting a direct flight to Montreal from Atlanta
+User_2 treated 1 Blue cube from Montreal
+User_2 is getting a direct flight to Santiago from Montreal
+User_2 treated 1 Yellow cube from Santiago
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DF,2,Montreal#TD,2,Montreal,Blue#DT,2,Washington#DT,2,Atlanta
+User_1 : DT,2,Chicago#DF,2,Santiago#TD,2,Santiago,Yellow#DT,2,Lima
+User_2 : DF,2,Montreal#TD,2,Montreal,Blue#DF,2,Santiago#TD,2,Santiago,Yellow
+User_3 : DT,2,Washington#DT,2,Atlanta#DF,2,Santiago#DT,2,Lima
+
+User_2 just drawn the Instabul card
+User_2 just drawn the Milan card
+
+Infecting Bangkok...
+Adding 1 Red cube(s) to Bangkok
+Red cubes left: 18
+
+SOS --> Outbreak(2) in Bangkok <-- SOS
+
+Adding 1 Red cube(s) to Kolkata
+Red cubes left: 17
+Adding 1 Red cube(s) to Chennai
+Red cubes left: 16
+Adding 1 Red cube(s) to Hong Kong
+Red cubes left: 15
+Adding 1 Red cube(s) to Ho Chi Minh City
+Red cubes left: 14
+Adding 1 Red cube(s) to Jakarta
+Red cubes left: 13
+Infecting Kolkata...
+Adding 1 Black cube(s) to Kolkata
+Black cubes left: 17
+
+*** This is round 4.3 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[1, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[2, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[1, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 2, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 1, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 1, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 1]
+Hong Kong[0, 0, 0, 1]
+Jakarta[0, 0, 0, 1]
+Manila[0, 0, 0, 2]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [17, 19, 19, 13]
+Cards To Draw Left : 38
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 3 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_3 is playing now as the Medic
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of an action to make..
+
+User_3 is getting a direct flight to Sydney from Atlanta
+User_3 is driving / getting ferry to Los Angeles from Sydney
+User_3 is driving / getting ferry to San Fransisco from Los Angeles
+User_3 is driving / getting ferry to Manila from San Fransisco
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,3,Washington#DT,3,Atlanta#DF,3,Bogota#DF,3,Sydney
+User_1 : DF,3,Bogota#DT,3,Lima#DT,3,Mexico City#DF,3,Sydney
+User_2 : DT,3,Miami#DT,3,Mexico City#DT,3,Miami#DF,3,Bogota
+User_3 : DF,3,Sydney#DT,3,Los Angeles#DT,3,San Fransisco#DT,3,Manila
+
+User_3 just drawn the New York card
+User_3 just drawn the Chennai card
+
+Infecting Riyadh...
+Adding 1 Black cube(s) to Riyadh
+Black cubes left: 16
+Infecting Milan...
+Adding 1 Blue cube(s) to Milan
+Blue cubes left: 18
+
+*** This is round 5.0 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[1, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[2, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 2, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 1, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 1, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 1]
+Hong Kong[0, 0, 0, 1]
+Jakarta[0, 0, 0, 1]
+Manila[0, 0, 0, 2]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [16, 19, 18, 13]
+Cards To Draw Left : 36
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 3 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_0 is playing now as the Scientist
+
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_0 is thinking of an action to make..
+
+User_0 is driving / getting ferry to Paris from London
+User_0 is getting a direct flight to Washington from Paris
+User_0 is driving / getting ferry to Montreal from Washington
+User_0 is driving / getting ferry to Washington from Montreal
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,0,Paris#DF,0,Washington#DT,0,Montreal#DT,0,Washington
+User_1 : DF,0,San Fransisco#DT,0,Manila#TD,0,Manila,Red#DT,0,San Fransisco
+User_2 : TD,0,London,Blue#DF,0,Washington#DT,0,Miami#DF,0,Taipei
+User_3 : DT,0,New York#DT,0,Montreal#DT,0,Washington#CF,0,Washington
+
+User_0 just drawn the Bangkok card
+User_0 just drawn the Mumbai card
+
+Infecting Baghdad...
+Adding 1 Black cube(s) to Baghdad
+Black cubes left: 15
+Infecting Manila...
+Adding 1 Red cube(s) to Manila
+Red cubes left: 12
+
+*** This is round 6.1 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[2, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 2, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 1, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 1, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 1]
+Hong Kong[0, 0, 0, 1]
+Jakarta[0, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 1]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [15, 19, 18, 12]
+Cards To Draw Left : 34
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 3 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_1 is playing now as the Operations Expert
+
+User_0 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_1 is thinking of an action to make..
+
+User_1 is getting a direct flight to London from Lagos
+User_1 is driving / getting ferry to New York from London
+User_1 treated 1 Blue cube from New York
+User_1 is driving / getting ferry to London from New York
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,1,Khartoum#DT,1,Johannesburg#DT,1,Kinshasa#DT,1,Lagos
+User_1 : DF,1,London#DT,1,New York#TD,1,New York,Blue#DT,1,London
+User_2 : DT,1,Khartoum#DT,1,Johannesburg#DF,1,London#DT,1,Paris
+User_3 : DF,1,London#TD,1,London,Blue#DT,1,New York#DT,1,Washington
+
+User_1 just drawn the Lima card
+User_1 just drawn the Tehran card
+
+Infecting Sydney...
+Adding 1 Red cube(s) to Sydney
+Red cubes left: 11
+Infecting London...
+Adding 1 Blue cube(s) to London
+Blue cubes left: 18
+
+*** This is round 7.2 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[0, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[2, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[0, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 2, 0, 0]
+Santiago[0, 2, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[0, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 1]
+Hong Kong[0, 0, 0, 1]
+Jakarta[0, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [15, 19, 18, 11]
+Cards To Draw Left : 32
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 3 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_2 is playing now as the Quarantine Specialist
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_2 is thinking of an action to make..
+
+User_2 treated 1 Yellow cube from Santiago
+User_2 treated 1 Yellow cube from Santiago
+User_2 is driving / getting ferry to Lima from Santiago
+User_2 is driving / getting ferry to Santiago from Lima
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : TD,2,Santiago,Yellow#DF,2,Instabul#DF,2,Milan#TD,2,Milan,Blue
+User_1 : TD,2,Santiago,Yellow#TD,2,Santiago,Yellow#DF,2,Milan#TD,2,Milan,Blue
+User_2 : TD,2,Santiago,Yellow#TD,2,Santiago,Yellow#DT,2,Lima#DT,2,Santiago
+User_3 : TD,2,Santiago,Yellow#DF,2,Instabul#DF,2,Milan#DT,2,Instabul
+
+User_2 just drawn the Tokyo card
+User_2 just drawn the Moscow card
+
+Infecting Chennai...
+Adding 1 Black cube(s) to Chennai
+Black cubes left: 15
+
+SOS --> Outbreak(3) in Chennai <-- SOS
+
+Adding 1 Black cube(s) to Kolkata
+Black cubes left: 14
+Adding 1 Black cube(s) to Delhi
+Black cubes left: 13
+Adding 1 Black cube(s) to Mumbai
+Black cubes left: 12
+Adding 1 Black cube(s) to Jakarta
+Black cubes left: 11
+Adding 1 Black cube(s) to Bangkok
+Black cubes left: 10
+Infecting Miami...
+Adding 1 Yellow cube(s) to Miami
+Yellow cubes left: 20
+
+*** This is round 8.3 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 0, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 1]
+Hong Kong[0, 0, 0, 1]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 20, 18, 11]
+Cards To Draw Left : 30
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_3 is playing now as the Medic
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of an action to make..
+
+User_3 is getting a direct flight to New York from Manila
+User_3 is driving / getting ferry to Washington from New York
+User_3 is getting a direct flight to Bogota from Washington
+User_3 is getting a direct flight to Chennai from Bogota
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,3,Hong Kong#DT,3,Bangkok#DF,3,Bogota#DT,3,Sao Paulo
+User_1 : DT,3,Taipei#DF,3,Bogota#DF,3,New York#DT,3,Montreal
+User_2 : DT,3,San Fransisco#DF,3,Bogota#DT,3,Miami#TD,3,Miami,Yellow
+User_3 : DF,3,New York#DT,3,Washington#DF,3,Bogota#DF,3,Chennai
+
+User_3 just drawn the Baghdad card
+User_3 just drawn the Buenos Aires card
+
+Infecting Ho Chi Minh City...
+Adding 1 Red cube(s) to Ho Chi Minh City
+Red cubes left: 10
+Infecting Lagos...
+Adding 1 Yellow cube(s) to Lagos
+Yellow cubes left: 19
+
+*** This is round 9.0 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 0, 0, 0]
+Buenos Aires[0, 0, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 1, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 1]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 19, 18, 10]
+Cards To Draw Left : 28
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_0 is playing now as the Scientist
+
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_0 is thinking of an action to make..
+
+User_0 is getting a direct flight to San Fransisco from Washington
+User_0 is driving / getting ferry to Chicago from San Fransisco
+User_0 is driving / getting ferry to San Fransisco from Chicago
+
+Printing actions of all players...
+User_0 : F,0,Bangkok#DF,0,San Fransisco#DT,0,Chicago#DT,0,San Fransisco
+User_1 : DF,0,San Fransisco#DT,0,Manila#TD,0,Manila,Red#DT,0,Sydney
+User_2 : DF,0,Taipei#DT,0,Hong Kong#DT,0,Manila#TD,0,Manila,Red
+User_3 : DF,0,Bangkok#DF,0,San Fransisco#DT,0,Chicago#DT,0,San Fransisco
+
+User_0 just drawn the Delhi card
+User_0 just drawn the Lagos card
+
+Infecting Bogota...
+Adding 1 Yellow cube(s) to Bogota
+Yellow cubes left: 18
+Infecting Buenos Aires...
+Adding 1 Yellow cube(s) to Buenos Aires
+Yellow cubes left: 17
+
+*** This is round 10.1 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 1, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 1, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 1]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 17, 18, 10]
+Cards To Draw Left : 26
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_1 is playing now as the Operations Expert
+
+User_0 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_1 is thinking of an action to make..
+
+User_1 is driving / getting ferry to Madrid from London
+User_1 is driving / getting ferry to Algiers from Madrid
+User_1 is driving / getting ferry to Instabul from Algiers
+User_1 is driving / getting ferry to Algiers from Instabul
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,1,Essen#DT,1,Paris#DF,1,Lima#DT,1,Mexico City
+User_1 : DT,1,Madrid#DT,1,Algiers#DT,1,Instabul#DT,1,Algiers
+User_2 : DT,1,New York#DT,1,London#TD,1,London,Blue#DT,1,New York
+User_3 : TD,1,London,Blue#DT,1,Paris#DF,1,Tehran#DT,1,Moscow
+
+User_1 just drawn the Kolkata card
+User_1 just drawn the Sao Paulo card
+
+Infecting Hong Kong...
+Adding 1 Red cube(s) to Hong Kong
+Red cubes left: 9
+Infecting Algiers...
+Adding 1 Black cube(s) to Algiers
+Black cubes left: 9
+
+*** This is round 11.2 ***
+
+ ----- Black Cities  ----- 
+Algiers[1, 0, 0, 0]
+Baghdad[2, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 1, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 1, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 0, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 2, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [9, 17, 18, 9]
+Cards To Draw Left : 24
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 3 Epidemic cards left out of 4
+
+User_2 is playing now as the Quarantine Specialist
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_2 is thinking of an action to make..
+
+User_2 is getting a direct flight to Moscow from Santiago
+User_2 is getting a direct flight to Milan from Moscow
+User_2 treated 1 Blue cube from Milan
+
+Printing actions of all players...
+User_0 : DF,2,Instabul#DF,2,Moscow#DF,2,Milan#TD,2,Milan,Blue
+User_1 : DF,2,Instabul#DT,2,Baghdad#DT,2,Instabul#DT,2,St. Petersburg
+User_2 : F,2,Instabul#DF,2,Moscow#DF,2,Milan#TD,2,Milan,Blue
+User_3 : DT,2,Lima#DT,2,Bogota#DT,2,Miami#TD,2,Miami,Yellow
+
+
+SOS --> EPIDEMIC IS DRAWN! <-- SOS
+
+Infecting Atlanta due to Epidemic
+Adding 3 Blue cube(s) to Atlanta
+Blue cubes left: 16
+User_2 just drawn the Mexico City card
+
+Infecting Baghdad...
+Adding 1 Black cube(s) to Baghdad
+Black cubes left: 8
+Infecting Lagos...
+Adding 1 Yellow cube(s) to Lagos
+Yellow cubes left: 16
+
+*** This is round 12.3 ***
+
+ ----- Black Cities  ----- 
+Algiers[1, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[3, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 1, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 3, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 2]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [8, 16, 16, 9]
+Cards To Draw Left : 22
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_3 is playing now as the Medic
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of an action to make..
+
+User_3 treated all (3) Black cube(s) from Chennai as the Medic
+User_3 is driving / getting ferry to Delhi from Chennai
+User_3 is driving / getting ferry to Chennai from Delhi
+User_3 is driving / getting ferry to Delhi from Chennai
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,3,Jakarta#TD,3,Jakarta,Black#DT,3,Bangkok#DF,3,Buenos Aires
+User_1 : TD,3,Chennai,Red#TD,3,Chennai,Black#DT,3,Kolkata#TD,3,Kolkata,Black
+User_2 : DT,3,Kolkata#TD,3,Kolkata,Red#DT,3,Chennai#DT,3,Kolkata
+User_3 : TD,3,Chennai,Black#DT,3,Delhi#DT,3,Chennai#DT,3,Delhi
+
+User_3 just drawn the Khartoum card
+User_3 just drawn the Jakarta card
+
+Infecting Sydney...
+Adding 1 Red cube(s) to Sydney
+Red cubes left: 8
+Infecting Chennai...
+Adding 1 Black cube(s) to Chennai
+Black cubes left: 10
+
+*** This is round 13.0 ***
+
+ ----- Black Cities  ----- 
+Algiers[1, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 1, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 0, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 3, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 16, 16, 8]
+Cards To Draw Left : 20
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_0 is playing now as the Scientist
+
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_0 is thinking of an action to make..
+
+Osaka is not accesible by drive / ferry from San Fransisco
+User_0 is getting a direct flight to Lagos from San Fransisco
+User_0 is getting a direct flight to Mumbai from Lagos
+
+Printing actions of all players...
+User_0 : F,0,Taipei#DT,0,Osaka#DF,0,Lagos#DF,0,Mumbai
+User_1 : DF,0,Lagos#TD,0,Lagos,Yellow#DF,0,Taipei#DT,0,Osaka
+User_2 : DT,0,Los Angeles#DT,0,Chicago#DF,0,Lagos#DF,0,Taipei
+User_3 : DF,0,Taipei#DT,0,Osaka#DF,0,Lagos#DF,0,Mumbai
+
+User_0 just drawn the Manila card
+User_0 just drawn the Algiers card
+
+Infecting Santiago...
+Adding 1 Yellow cube(s) to Santiago
+Yellow cubes left: 15
+Infecting Milan...
+Cannot infect Milan cause it's under the Quarantine Specialist's protection
+
+*** This is round 14.1 ***
+
+ ----- Black Cities  ----- 
+Algiers[1, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 1, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 0, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 1, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 0, 3, 0]
+Chicago[0, 0, 0, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 0, 0, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 15, 16, 8]
+Cards To Draw Left : 18
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 4 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_1 is playing now as the Operations Expert
+
+User_0 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_1 is thinking of an action to make..
+
+User_1 treated 1 Black cube from Algiers
+User_1 is getting a direct flight to Tehran from Algiers
+User_1 is getting a direct flight to Lima from Tehran
+User_1 is getting a direct flight to Sao Paulo from Lima
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DF,1,Kolkata#DF,1,Ho Chi Minh City#DF,1,Lima#TD,1,Lima,Yellow
+User_1 : TD,1,Algiers,Black#DF,1,Tehran#DF,1,Lima#DF,1,Sao Paulo
+User_2 : DT,1,Paris#DF,1,Tehran#DT,1,Baghdad#TD,1,Baghdad,Black
+User_3 : DF,1,Ho Chi Minh City#DF,1,Kolkata#TD,1,Kolkata,Black#DF,1,Lima
+
+User_1 just drawn the Paris card
+User_1 just drawn the Riyadh card
+
+Infecting Miami...
+Adding 1 Yellow cube(s) to Miami
+Yellow cubes left: 15
+
+SOS --> Outbreak(4) in Miami <-- SOS
+
+Adding 1 Yellow cube(s) to Bogota
+Yellow cubes left: 14
+Adding 1 Yellow cube(s) to Mexico City
+Yellow cubes left: 13
+Adding 1 Yellow cube(s) to Atlanta
+Yellow cubes left: 12
+Adding 1 Yellow cube(s) to Washington
+Yellow cubes left: 11
+Infecting Atlanta...
+Adding 1 Blue cube(s) to Atlanta
+Blue cubes left: 16
+
+SOS --> Outbreak(5) in Atlanta <-- SOS
+
+Adding 1 Blue cube(s) to Washington
+Blue cubes left: 15
+Adding 1 Blue cube(s) to Chicago
+Blue cubes left: 14
+
+*** This is round 15.2 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[2, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 2, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 1, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 1, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 1, 3, 0]
+Chicago[0, 0, 1, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 1, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 1, 1, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [11, 11, 14, 8]
+Cards To Draw Left : 16
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 6 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_2 is playing now as the Quarantine Specialist
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_2 is thinking of an action to make..
+
+User_2 treated 1 Blue cube from Milan
+User_2 is driving / getting ferry to Essen from Milan
+User_2 is driving / getting ferry to St. Petersburg from Essen
+User_2 is driving / getting ferry to Instabul from St. Petersburg
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,2,Instabul#CF,2,Los Angeles#DF,2,Instabul#DF,2,Mexico City
+User_1 : DF,2,Tokyo#DT,2,Seoul#DT,2,Shanghai#DF,2,Instabul
+User_2 : TD,2,Milan,Blue#DT,2,Essen#DT,2,St. Petersburg#DT,2,Instabul
+User_3 : DF,2,Instabul#DT,2,St. Petersburg#DF,2,Mexico City#DT,2,Miami
+
+User_2 just drawn the Atlanta card
+User_2 just drawn the Essen card
+
+Infecting Riyadh...
+Adding 1 Black cube(s) to Riyadh
+Black cubes left: 10
+Infecting Algiers...
+Cannot infect Algiers cause it's under the Quarantine Specialist's protection
+
+*** This is round 16.3 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[3, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 2, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 1, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 1, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 1, 3, 0]
+Chicago[0, 0, 1, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 2, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 0, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 1, 1, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 2]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 11, 15, 8]
+Cards To Draw Left : 14
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 6 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_3 is playing now as the Medic
+
+User_0 is thinking of a suggestion to make..
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of an action to make..
+
+User_3 is driving / getting ferry to Kolkata from Delhi
+User_3 is getting a direct flight to Khartoum from Kolkata
+User_3 is driving / getting ferry to Lagos from Khartoum
+User_3 is driving / getting ferry to Khartoum from Lagos
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : TD,3,Delhi,Black#DT,3,Tehran#DF,3,Khartoum#DF,3,Buenos Aires
+User_1 : DT,3,Tehran#DT,3,Delhi#DF,3,Khartoum#DF,3,Buenos Aires
+User_2 : DF,3,Buenos Aires#DF,3,Khartoum#DT,3,Kinshasa#DT,3,Khartoum
+User_3 : DT,3,Kolkata#DF,3,Khartoum#DT,3,Lagos#DT,3,Khartoum
+
+User_3 just drawn the St. Petersburg card
+User_3 just drawn the Osaka card
+
+Infecting London...
+Adding 1 Blue cube(s) to London
+Blue cubes left: 14
+Infecting Hong Kong...
+Adding 1 Red cube(s) to Hong Kong
+Red cubes left: 7
+
+*** This is round 17.0 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[3, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 2, 0, 0]
+Buenos Aires[0, 1, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 1, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 1, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 1, 3, 0]
+Chicago[0, 0, 1, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 3, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 0, 0]
+Montreal[0, 0, 2, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 1, 1, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 3]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 11, 14, 7]
+Cards To Draw Left : 12
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 6 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_0 is playing now as the Scientist
+
+User_1 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_0 is thinking of an action to make..
+
+Ho Chi Minh City is not accessible by charter flight
+User_0 could not treat Ho Chi Minh City
+User_0 could not treat Ho Chi Minh City
+
+Printing actions of all players...
+User_0 : T,0,Delhi#CF,0,Ho Chi Minh City#TD,0,Ho Chi Minh City,Red#TD,0,Ho Chi Minh City,Red
+User_1 : DF,0,Algiers#DF,0,Delhi#DT,0,Mumbai#TD,0,Mumbai,Black
+User_2 : DT,0,Delhi#CF,0,Ho Chi Minh City#TD,0,Ho Chi Minh City,Red#TD,0,Ho Chi Minh City,Red
+User_3 : DF,0,Algiers#DF,0,Taipei#DT,0,Hong Kong#DT,0,Shanghai
+
+User_0 just drawn the Miami card
+User_0 just drawn the Chicago card
+
+Infecting Montreal...
+Adding 1 Blue cube(s) to Montreal
+Blue cubes left: 13
+Infecting Buenos Aires...
+Adding 1 Yellow cube(s) to Buenos Aires
+Yellow cubes left: 10
+
+*** This is round 18.1 ***
+
+ ----- Black Cities  ----- 
+Algiers[0, 0, 0, 0]
+Baghdad[3, 0, 0, 0]
+Cairo[0, 0, 0, 0]
+Chennai[1, 0, 0, 1]
+Delhi[1, 0, 0, 0]
+Instabul[0, 0, 0, 0]
+Karachi[0, 0, 0, 0]
+Kolkata[3, 0, 0, 1]
+Moscow[0, 0, 0, 0]
+Mumbai[1, 0, 0, 0]
+Riyadh[3, 0, 0, 0]
+Tehran[0, 0, 0, 0]
+
+ ----- Yellow Cities  ----- 
+Bogota[0, 2, 0, 0]
+Buenos Aires[0, 2, 0, 0]
+Johannesburg[0, 0, 0, 0]
+Khartoum[0, 0, 0, 0]
+Kinshasa[0, 0, 0, 0]
+Lagos[0, 2, 0, 0]
+Lima[0, 1, 0, 0]
+Los Angeles[0, 0, 0, 0]
+Mexico City[0, 1, 0, 0]
+Miami[0, 3, 0, 0]
+Santiago[0, 1, 0, 0]
+Sao Paulo[0, 0, 0, 0]
+
+ ------ Blue Cities  ------ 
+Atlanta[0, 1, 3, 0]
+Chicago[0, 0, 1, 0]
+Essen[0, 0, 0, 0]
+London[0, 0, 3, 0]
+Madrid[0, 0, 0, 0]
+Milan[0, 0, 0, 0]
+Montreal[0, 0, 3, 0]
+New York[0, 0, 0, 0]
+Paris[0, 0, 0, 0]
+San Fransisco[0, 0, 0, 0]
+St. Petersburg[0, 0, 0, 0]
+Washington[0, 1, 1, 0]
+
+ ------ Red Cities  ------ 
+Bangkok[1, 0, 0, 3]
+Beijing[0, 0, 0, 0]
+Ho Chi Minh City[0, 0, 0, 2]
+Hong Kong[0, 0, 0, 3]
+Jakarta[1, 0, 0, 1]
+Manila[0, 0, 0, 3]
+Osaka[0, 0, 0, 0]
+Seoul[0, 0, 0, 0]
+Shanghai[0, 0, 0, 0]
+Sydney[0, 0, 0, 3]
+Taipei[0, 0, 0, 0]
+Tokyo[0, 0, 0, 0]
+
+ ----- Aggregate Info After Set of Actions ----- 
+Cubes Left : [10, 10, 13, 7]
+Cards To Draw Left : 10
+Disease Status : [Active, Active, Active, Active]
+Outbreak Status: 6 outbreaks have already occured (max is 8 outbreaks)
+Epidemic Status : 2 Epidemic cards left out of 4
+
+User_1 is playing now as the Operations Expert
+
+User_0 is thinking of a suggestion to make..
+User_2 is thinking of a suggestion to make..
+User_3 is thinking of a suggestion to make..
+User_1 is thinking of an action to make..
+
+User_1 is getting a direct flight to Paris from Sao Paulo
+User_1 is driving / getting ferry to Milan from Paris
+User_1 is getting a direct flight to Riyadh from Milan
+User_1 treated 1 Black cube from Riyadh
+
+You reached the maximum actions for this turn..
+
+Printing actions of all players...
+User_0 : DT,1,Madrid#DF,1,Paris#DF,1,Kolkata#TD,1,Kolkata,Black
+User_1 : DF,1,Paris#DT,1,Milan#DF,1,Riyadh#TD,1,Riyadh,Black
+User_2 : DT,1,Bogota#DT,1,Buenos Aires#DF,1,Riyadh#DT,1,Karachi
+User_3 : DF,1,Kolkata#TD,1,Kolkata,Black#DF,1,Paris#DF,1,Riyadh
+
+User_1 just drawn the Johannesburg card
+
+SOS --> EPIDEMIC IS DRAWN! <-- SOS
+
+Infecting Chicago due to Epidemic
+Adding 3 Blue cube(s) to Chicago
+Blue cubes left: 11
+
+SOS --> Outbreak(6) in Chicago <-- SOS
+
+Adding 1 Blue cube(s) to Montreal
+Blue cubes left: 11
+
+SOS --> Outbreak(7) in Montreal <-- SOS
+
+Max Outbreaks occured! You lost...
+
+Adding 1 Blue cube(s) to Atlanta
+Blue cubes left: 11
+Adding 1 Blue cube(s) to Mexico City
+Blue cubes left: 10
+Adding 1 Blue cube(s) to Los Angeles
+Blue cubes left: 9
+Adding 1 Blue cube(s) to San Fransisco
+Blue cubes left: 8
+
+
+
+Game has finished. Closing resources.. 
+
+*** Players lost... ***
+Recources closed succesfully. Goodbye! 
+

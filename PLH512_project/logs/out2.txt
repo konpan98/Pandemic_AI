@@ -1,0 +1,514 @@
+
+Connected to server!
+
+Hey! My username is User_2
+
+Hey! My role is Quarantine Specialist
+
+*** This is round 1.0 and User_0 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Santiago
+Montreal
+
+My hand's color count...
+Black cards count: 0
+Yellow cards count: 1
+Blue cards count: 1
+Red cards count: 0
+action: #DT,0,Chicago
+#DT,0,Chicago
+Player 2 evaluation for this state is 179.12666292206805
+action: #DF,0,Madrid
+#DF,0,Madrid
+Player 2 evaluation for this state is 179.08127242970824
+action: #DT,0,Algiers
+#DT,0,Algiers
+Player 2 evaluation for this state is 179.17685785384197
+action: #DT,0,Paris
+#DT,0,Paris
+Player 2 evaluation for this state is 178.7207909660586
+User_2 : I've just sent my DT,0,Chicago#DF,0,Madrid#DT,0,Algiers#DT,0,Paris
+
+*** This is round 2.1 and User_1 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Santiago
+Montreal
+
+My hand's color count...
+Black cards count: 0
+Yellow cards count: 1
+Blue cards count: 1
+Red cards count: 0
+action: #DT,1,Chicago
+#DT,1,Chicago
+Player 2 evaluation for this state is 369.5740078309693
+action: #DF,1,Kinshasa
+#DF,1,Kinshasa
+Player 2 evaluation for this state is 368.99041305972725
+action: #DF,1,Ho Chi Minh City
+#DF,1,Ho Chi Minh City
+Player 2 evaluation for this state is 369.0826839539006
+action: #DT,1,Bangkok
+#DT,1,Bangkok
+Player 2 evaluation for this state is 369.1360339747598
+User_2 : I've just sent my DT,1,Chicago#DF,1,Kinshasa#DF,1,Ho Chi Minh City#DT,1,Bangkok
+
+*** This is round 3.2 and User_2 is playing now *** 
+
+Server: User2 please import your action for this turn..
+
+My current hand...
+Santiago
+Montreal
+
+My hand's color count...
+Black cards count: 0
+Yellow cards count: 1
+Blue cards count: 1
+Red cards count: 0
+action: #DF,2,Montreal
+#DF,2,Montreal
+Player 2 evaluation for this state is 528.0293201801999
+action: #TD,2,Montreal,Blue
+#TD,2,Montreal,Blue
+Player 2 evaluation for this state is 530.6713796064294
+action: #DF,2,Santiago
+#DF,2,Santiago
+Player 2 evaluation for this state is 531.921103716785
+action: #TD,2,Santiago,Yellow
+#TD,2,Santiago,Yellow
+Player 2 evaluation for this state is 532.6117267051271
+User_2 : I've just sent my DF,2,Montreal#TD,2,Montreal,Blue#DF,2,Santiago#TD,2,Santiago,Yellow
+
+*** This is round 4.3 and User_3 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 0
+action: #DT,3,Miami
+#DT,3,Miami
+Player 2 evaluation for this state is 695.5776812852802
+action: #DT,3,Mexico City
+#DT,3,Mexico City
+Player 2 evaluation for this state is 698.0939098567084
+action: #DT,3,Miami
+#DT,3,Miami
+Player 2 evaluation for this state is 700.3162066309015
+action: #DF,3,Bogota
+#DF,3,Bogota
+Player 2 evaluation for this state is 703.3542661067088
+User_2 : I've just sent my DT,3,Miami#DT,3,Mexico City#DT,3,Miami#DF,3,Bogota
+
+*** This is round 5.0 and User_0 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 0
+action: #TD,0,London,Blue
+#TD,0,London,Blue
+Player 2 evaluation for this state is 864.1016740259183
+action: #DF,0,Washington
+#DF,0,Washington
+Player 2 evaluation for this state is 867.8103848898285
+action: #DT,0,Miami
+#DT,0,Miami
+Player 2 evaluation for this state is 870.3086710280108
+action: #DF,0,Taipei
+#DF,0,Taipei
+Player 2 evaluation for this state is 871.0399822377626
+User_2 : I've just sent my TD,0,London,Blue#DF,0,Washington#DT,0,Miami#DF,0,Taipei
+
+*** This is round 6.1 and User_1 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 0
+action: #DT,1,Khartoum
+#DT,1,Khartoum
+Player 2 evaluation for this state is 1073.0085356695874
+action: #DT,1,Johannesburg
+#DT,1,Johannesburg
+Player 2 evaluation for this state is 1072.5837988274816
+action: #DF,1,London
+#DF,1,London
+Player 2 evaluation for this state is 1074.3356685367203
+action: #DT,1,Paris
+#DT,1,Paris
+Player 2 evaluation for this state is 1079.3480594791117
+User_2 : I've just sent my DT,1,Khartoum#DT,1,Johannesburg#DF,1,London#DT,1,Paris
+
+*** This is round 7.2 and User_2 is playing now *** 
+
+Server: User2 please import your action for this turn..
+
+My current hand...
+Instabul
+Milan
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 0
+action: #TD,2,Santiago,Yellow
+#TD,2,Santiago,Yellow
+Player 2 evaluation for this state is 1201.574760343023
+action: #TD,2,Santiago,Yellow
+#TD,2,Santiago,Yellow
+Player 2 evaluation for this state is 1201.8229057142617
+action: #DT,2,Lima
+#DT,2,Lima
+Player 2 evaluation for this state is 1203.5170799306525
+action: #DT,2,Santiago
+#DT,2,Santiago
+Player 2 evaluation for this state is 1206.317919182275
+User_2 : I've just sent my TD,2,Santiago,Yellow#TD,2,Santiago,Yellow#DT,2,Lima#DT,2,Santiago
+
+*** This is round 8.3 and User_3 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+Tokyo
+Moscow
+
+My hand's color count...
+Black cards count: 2
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 1
+action: #DT,3,San Fransisco
+#DT,3,San Fransisco
+Player 2 evaluation for this state is 1374.838168220408
+action: #DF,3,Bogota
+#DF,3,Bogota
+Player 2 evaluation for this state is 1392.587984144116
+action: #DT,3,Miami
+#DT,3,Miami
+Player 2 evaluation for this state is 1394.596173918415
+action: #TD,3,Miami,Yellow
+#TD,3,Miami,Yellow
+Player 2 evaluation for this state is 1397.2844743495473
+User_2 : I've just sent my DT,3,San Fransisco#DF,3,Bogota#DT,3,Miami#TD,3,Miami,Yellow
+
+*** This is round 9.0 and User_0 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+Tokyo
+Moscow
+
+My hand's color count...
+Black cards count: 2
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 1
+action: #DF,0,Taipei
+#DF,0,Taipei
+Player 2 evaluation for this state is 1550.852800062578
+action: #DT,0,Hong Kong
+#DT,0,Hong Kong
+Player 2 evaluation for this state is 1548.739725894946
+action: #DT,0,Manila
+#DT,0,Manila
+Player 2 evaluation for this state is 1552.928369092233
+action: #TD,0,Manila,Red
+#TD,0,Manila,Red
+Player 2 evaluation for this state is 1561.4156510197606
+User_2 : I've just sent my DF,0,Taipei#DT,0,Hong Kong#DT,0,Manila#TD,0,Manila,Red
+
+*** This is round 10.1 and User_1 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Milan
+Tokyo
+Moscow
+
+My hand's color count...
+Black cards count: 2
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 1
+action: #DT,1,New York
+#DT,1,New York
+Player 2 evaluation for this state is 1738.2762387451955
+action: #DT,1,London
+#DT,1,London
+Player 2 evaluation for this state is 1751.2084646588185
+action: #TD,1,London,Blue
+#TD,1,London,Blue
+Player 2 evaluation for this state is 1753.4865684155268
+action: #DT,1,New York
+#DT,1,New York
+Player 2 evaluation for this state is 1756.7029786719393
+User_2 : I've just sent my DT,1,New York#DT,1,London#TD,1,London,Blue#DT,1,New York
+
+*** This is round 11.2 and User_2 is playing now *** 
+
+Server: User2 please import your action for this turn..
+
+My current hand...
+Instabul
+Milan
+Tokyo
+Moscow
+
+My hand's color count...
+Black cards count: 2
+Yellow cards count: 0
+Blue cards count: 1
+Red cards count: 1
+action: #DF,2,Milan
+#DF,2,Milan
+Player 2 evaluation for this state is 1836.7252874634964
+action: #DT,2,Essen
+#DT,2,Essen
+Player 2 evaluation for this state is 1833.9052453071274
+action: #DT,2,London
+#DT,2,London
+Player 2 evaluation for this state is 1834.0586862377907
+action: #DT,2,Essen
+#DT,2,Essen
+Player 2 evaluation for this state is 1836.9365876689646
+CoOp
+User_2 : I've just sent my F,2,Instabul#DF,2,Moscow#DF,2,Milan#TD,2,Milan,Blue
+
+*** This is round 12.3 and User_3 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 0
+Red cards count: 1
+action: #DT,3,Kolkata
+#DT,3,Kolkata
+Player 2 evaluation for this state is 1995.6289649223688
+action: #TD,3,Kolkata,Red
+#TD,3,Kolkata,Red
+Player 2 evaluation for this state is 2005.0894300386474
+action: #DT,3,Chennai
+#DT,3,Chennai
+Player 2 evaluation for this state is 2007.6674554884073
+action: #DT,3,Kolkata
+#DT,3,Kolkata
+Player 2 evaluation for this state is 2017.6237578217779
+User_2 : I've just sent my DT,3,Kolkata#TD,3,Kolkata,Red#DT,3,Chennai#DT,3,Kolkata
+
+*** This is round 13.0 and User_0 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 0
+Red cards count: 1
+action: #DT,0,Los Angeles
+#DT,0,Los Angeles
+Player 2 evaluation for this state is 2177.7084448354126
+action: #DT,0,Chicago
+#DT,0,Chicago
+Player 2 evaluation for this state is 2178.304290970096
+action: #DF,0,Lagos
+#DF,0,Lagos
+Player 2 evaluation for this state is 2185.5047028031076
+action: #DF,0,Taipei
+#DF,0,Taipei
+Player 2 evaluation for this state is 2184.349946284806
+User_2 : I've just sent my DT,0,Los Angeles#DT,0,Chicago#DF,0,Lagos#DF,0,Taipei
+
+*** This is round 14.1 and User_1 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 0
+Red cards count: 1
+action: #DT,1,Paris
+#DT,1,Paris
+Player 2 evaluation for this state is 2391.1906402751874
+action: #DF,1,Tehran
+#DF,1,Tehran
+Player 2 evaluation for this state is 2391.643721828945
+action: #DT,1,Baghdad
+#DT,1,Baghdad
+Player 2 evaluation for this state is 2402.4272858611257
+action: #TD,1,Baghdad,Black
+#TD,1,Baghdad,Black
+Player 2 evaluation for this state is 2412.243859071419
+User_2 : I've just sent my DT,1,Paris#DF,1,Tehran#DT,1,Baghdad#TD,1,Baghdad,Black
+
+*** This is round 15.2 and User_2 is playing now *** 
+
+Server: User2 please import your action for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 0
+Red cards count: 1
+action: #TD,2,Milan,Blue
+#TD,2,Milan,Blue
+Player 2 evaluation for this state is 2469.188744690125
+action: #DT,2,Essen
+#DT,2,Essen
+Player 2 evaluation for this state is 2466.401164254587
+action: #DT,2,St. Petersburg
+#DT,2,St. Petersburg
+Player 2 evaluation for this state is 2454.902268565292
+action: #DT,2,Instabul
+#DT,2,Instabul
+Player 2 evaluation for this state is 2451.6800463701848
+User_2 : I've just sent my TD,2,Milan,Blue#DT,2,Essen#DT,2,St. Petersburg#DT,2,Instabul
+
+*** This is round 16.3 and User_3 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+Atlanta
+Essen
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 2
+Red cards count: 1
+action: #DF,3,Buenos Aires
+#DF,3,Buenos Aires
+Player 2 evaluation for this state is 2642.172855380821
+action: #DF,3,Khartoum
+#DF,3,Khartoum
+Player 2 evaluation for this state is 2622.359356416017
+action: #DT,3,Kinshasa
+#DT,3,Kinshasa
+Player 2 evaluation for this state is 2634.331896926711
+action: #DT,3,Khartoum
+#DT,3,Khartoum
+Player 2 evaluation for this state is 2646.2461354754664
+User_2 : I've just sent my DF,3,Buenos Aires#DF,3,Khartoum#DT,3,Kinshasa#DT,3,Khartoum
+
+*** This is round 17.0 and User_0 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+Atlanta
+Essen
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 2
+Red cards count: 1
+action: #DT,0,Delhi
+#DT,0,Delhi
+Player 2 evaluation for this state is 2775.7444097108564
+action: #CF,0,Ho Chi Minh City
+#CF,0,Ho Chi Minh City
+Player 2 evaluation for this state is 2802.315782674772
+action: #TD,0,Ho Chi Minh City,Red
+#TD,0,Ho Chi Minh City,Red
+Player 2 evaluation for this state is 2795.398851457841
+action: #TD,0,Ho Chi Minh City,Red
+#TD,0,Ho Chi Minh City,Red
+Player 2 evaluation for this state is 2778.221437868109
+User_2 : I've just sent my DT,0,Delhi#CF,0,Ho Chi Minh City#TD,0,Ho Chi Minh City,Red#TD,0,Ho Chi Minh City,Red
+
+*** This is round 18.1 and User_1 is playing now *** 
+
+Server: User2 please import your suggestion for this turn..
+
+My current hand...
+Instabul
+Tokyo
+Mexico City
+Atlanta
+Essen
+
+My hand's color count...
+Black cards count: 1
+Yellow cards count: 1
+Blue cards count: 2
+Red cards count: 1
+action: #DT,1,Bogota
+#DT,1,Bogota
+Player 2 evaluation for this state is 2994.2510959751935
+action: #DT,1,Buenos Aires
+#DT,1,Buenos Aires
+Player 2 evaluation for this state is 3005.7702323006547
+action: #DF,1,Riyadh
+#DF,1,Riyadh
+Player 2 evaluation for this state is 3011.2394315300007
+action: #DT,1,Karachi
+#DT,1,Karachi
+Player 2 evaluation for this state is 3018.4339862449324
+User_2 : I've just sent my DT,1,Bogota#DT,1,Buenos Aires#DF,1,Riyadh#DT,1,Karachi
